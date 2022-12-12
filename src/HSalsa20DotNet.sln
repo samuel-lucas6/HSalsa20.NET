@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSalsa20DotNet", "HSalsa20DotNet\HSalsa20DotNet.csproj", "{D819F976-26A0-4A1E-8BF2-4798AF7F08DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSalsa20DotNetTests", "HSalsa20DotNetTests\HSalsa20DotNetTests.csproj", "{EDCE9F30-6664-4EB4-A465-152C24B746F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D819F976-26A0-4A1E-8BF2-4798AF7F08DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D819F976-26A0-4A1E-8BF2-4798AF7F08DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D819F976-26A0-4A1E-8BF2-4798AF7F08DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D819F976-26A0-4A1E-8BF2-4798AF7F08DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCE9F30-6664-4EB4-A465-152C24B746F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCE9F30-6664-4EB4-A465-152C24B746F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCE9F30-6664-4EB4-A465-152C24B746F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCE9F30-6664-4EB4-A465-152C24B746F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
